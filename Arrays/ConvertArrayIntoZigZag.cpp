@@ -1,10 +1,8 @@
-//{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
 class Solution
 {
 public:
-    // Program for zig-zag conversion of array
     void zigZag(int arr[], int n)
     {
         for (int i = 0; i < n - 1; i++)
